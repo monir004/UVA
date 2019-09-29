@@ -7,7 +7,7 @@
 using namespace std;
 
 int m, n, cont;
-vector<vector<char>>v(100, vector<char>(100));  //2d vector with fixed row and size.....
+vector<vector<char>>v(100, vector<char>(100));  //2d vector with fixed row and col size.....
 char ch;
 bool visited[100][100];
 
